@@ -1,0 +1,39 @@
+.bottom {
+  position:fixed;
+  bottom:0px;
+}
+
+.black {
+  background:black;
+}
+
+.grey {
+  background:grey;
+}
+
+.tlm {
+  border-radius:35px 0px 0px 0px;
+}
+
+.trm {
+  border-radius:0px 35px 0px 0px;
+}
+
+.blm {
+  border-radius:0px 0px 0px 35px;
+}
+
+.brm {
+  border-radius:0px 0px 35px 0px;
+}
+
+.limit {
+  width:100%;
+}
+
+.btn {
+  position:absolute;
+  bottom:0px;
+  height:100%;
+  width:100%;
+}
